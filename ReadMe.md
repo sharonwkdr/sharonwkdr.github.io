@@ -1,4 +1,4 @@
 
 Hello world
 
-[link to testpage](./testpage.md)
+[link to test](./test.md)
