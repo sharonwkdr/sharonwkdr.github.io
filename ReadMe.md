@@ -1,4 +1,3 @@
-
 ---
 title: Sharon4thePeople
 page_title: Sharon4thepeople
