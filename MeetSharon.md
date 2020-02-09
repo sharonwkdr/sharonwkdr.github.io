@@ -1,4 +1,4 @@
-# About Sharon Cummings
+# Meet Sharon Cummings
 She was born in **Cameron**, TX.
 
 Parents were 
