@@ -14,7 +14,7 @@ THe following are some of my core beliefs and the goals for which I focus my eff
 ### Quality Public Education 
 
 * The Constitution of the United States of America requires that our government provide free education to our children.
-..* Every child who lives within Williamson County deserves to have a good, comprehensive, education that will prepare that child to cope well with what their future will demand of them,  
+--* Every child who lives within Williamson County deserves to have a good, comprehensive, education that will prepare that child to cope well with what their future will demand of them,  
 
 
 
