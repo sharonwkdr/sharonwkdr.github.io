@@ -13,8 +13,15 @@ THe following are some of my core beliefs and the goals for which I focus my eff
 
 ### Quality Public Education 
 
-* The Constitution of the United States of America requires that our government provide free education to our children.
---* Every child who lives within Williamson County deserves to have a good, comprehensive, education that will prepare that child to cope well with what their future will demand of them,  
+* The Constitution of the United States of America requires that our government provide free education to our children.  
+
+* Every child who lives within Williamson County deserves to have a good, comprehensive, education that will prepare that child to cope well with what their future will demand of them.  
+
+* All of our society benefits when every individual is well-informed and well-trained to earn a decent standard of living.  
+
+### Affordable, Eco-friendly Homes and Buildings
+
+The closer a worker lives to their job site, the less that worker will contribute to our over-crowded traffic snarls.  It stands to reason that encouraging affordable, sustainable, eco-firendly, community-oriented housing close to where people work will ultimately benefit all of us who live here in Williamson County.
 
 
 
