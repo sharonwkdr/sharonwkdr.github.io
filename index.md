@@ -1,4 +1,4 @@
-<div style="display: none;">Sharon running for Williamson County Commissioner Precinct 3</div>
+<div></div>
 ## [Home](./index.md) | [Meet Sharon](./MeetSharon.md) | [What I stand for](./MyVision.md) | [Events](./Events.md) | [County Commissioner](./CountyCommissioner.md) | [Shop](./Shop.md) | [Volunteer](./Volunteer.md) | [Donate](./Donate.md) 
 
 If you live in Williamson County, Texas, I am your neighbor who is running for County Commissioner!  
