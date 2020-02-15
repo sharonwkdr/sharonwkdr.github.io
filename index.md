@@ -1,5 +1,5 @@
 <div></div>
-## [Home](./index.md) | [Meet Sharon](./MeetSharon.md) | [What I stand for](./MyVision.md) | [Events](./Events.md) | [County Commissioner](./CountyCommissioner.md) | [Shop](./Shop.md) | [Volunteer](./Volunteer.md) | [Donate](./Donate.md) 
+## [Home](./index.md) | [Meet Sharon](./MeetSharon.md) | [My Vision](./MyVision.md) | [Events](./Events.md) | [County Commissioner](./CountyCommissioner.md) | [Shop](./Shop.md) | [Volunteer](./Volunteer.md) | [Donate](./Donate.md) 
 
 If you live in Williamson County, Texas, I am your neighbor who is running for County Commissioner!  
 
