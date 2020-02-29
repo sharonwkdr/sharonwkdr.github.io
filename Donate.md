@@ -14,7 +14,6 @@ PLace Link to Donate
 1. I am making this contribution with my own personal credit card and not with a corporate or business credit card or a card issued to another person.
 1. I am at least eighteen years old.
 1. I am not a federal contractor.
-1. This contribution is not made from the funds of a political action committee.
 1. I am not an executive of a fossil fuel company.
 1. I am not a registered Federal lobbyist.
 1. I am not an executive of a health insurance or pharmaceutical company.
