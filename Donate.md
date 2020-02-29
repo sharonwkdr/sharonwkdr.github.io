@@ -24,8 +24,3 @@ PLace Link to Donate
 1. I am not an executive of a hedge fund.
 1. I am not an executive at an agribusiness company.
 
-
-Donations to Warren for President are powered by ActBlue, and ActBlue’s use of the information you provide is subject to the  ActBlue Privacy Policy. Elizabeth loves to call grassroots donors to say thank you. By making a donation, you consent to a potential call from Elizabeth with campaign staff recording the conversation, but no recordings will be used by the campaign without your express permission. By providing your cell phone number you consent to receive periodic campaign updates from Warren for President. Text HELP for help, STOP to end. Message & Data rates may apply. https://www.elizabethwarren.com/privacy-policy
-
-Click here to donate by mail.
-By proceeding with this transaction, you agree to ActBlue's terms & conditions.
