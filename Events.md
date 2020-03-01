@@ -3,7 +3,7 @@
 
 # Events
 
-https://calendar.google.com/calendar/b/2?cid=c2hhcm9uY3VtbWluZ3M0dGhlcGVvcGxlQGdtYWlsLmNvbQ
+<iframe src="https://calendar.google.com/calendar/embed?src=sharoncummings4thepeople%40gmail.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 List Happy Hours
 
