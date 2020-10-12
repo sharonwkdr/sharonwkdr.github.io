@@ -4,7 +4,7 @@
 
 # Meet Sharon Cummings
 
-![Profile picture of Sharon Jean Cummings](./images/SharonProfile.JPG | height=40rem)
+![Profile picture of Sharon Jean Cummings](./images/SharonProfile.JPG | height=640)
 
 Born in Cameron, TX, Sharon Jean Cummings grew up in Montevideo, Uruguay, from age 2 to age 12, with teenage years spent in El Paso, TX, graduating from Irvin High School, then earned a Bachelor of Science from Baylor University in Waco, TX.
 
