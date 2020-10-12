@@ -4,6 +4,8 @@
 
 # Meet Sharon Cummings
 
+![Profile picture of Sharon Jean Cummings](./images/SharonProfile.JPG)
+
 Born in Cameron, TX, Sharon Jean Cummings grew up in Montevideo, Uruguay, from age 2 to age 12, with teenage years spent in El Paso, TX, graduating from Irvin High School, then earned a Bachelor of Science from Baylor University in Waco, TX.
 
 After marrying Larry Cummings (who eventually retired from the Navy as the Command Master Chief of the USS Carl Vinson - at the time the largest aircraft carrier in the world), she enjoyed all aspects of life on Navy Bases.  
