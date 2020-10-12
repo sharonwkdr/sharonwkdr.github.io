@@ -14,3 +14,5 @@ Please join me in electing people to office that are focused on helping our coun
 _with love_,
 
 **Sharon Cummings**
+
+<img src="./images/SharonProfile.JPG" alt="Profile picture of Sharon Jean Cummings" height="640px" />
